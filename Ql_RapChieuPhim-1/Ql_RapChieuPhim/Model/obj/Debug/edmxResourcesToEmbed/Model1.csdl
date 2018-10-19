@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QL_RAPCHIEUPHIMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="CHITIETHOADON">
+    <Key>
+      <PropertyRef Name="MAHD" />
+    </Key>
+    <Property Name="MAHD" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TIENDV" Type="Decimal" Precision="19" Scale="4" />
+    <Property Name="SLGHEMUA" Type="Int32" />
+    <Property Name="THANHTIEN" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="MAKM" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="HOADON">
+    <Key>
+      <PropertyRef Name="MAHD" />
+    </Key>
+    <Property Name="MAHD" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAKH" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAPHIM" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="NGAYLAPHD" Type="DateTime" Precision="0" />
+    <Property Name="SUATCHIEU" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="SLGHEMUA" Type="Int32" />
+    <Property Name="THANHTIEN" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PHIM" Relationship="Self.FK_HOADON_PHIM" FromRole="HOADON" ToRole="PHIM" />
+    <NavigationProperty Name="PHIM1" Relationship="Self.FK_HOADON_PHIM1" FromRole="HOADON" ToRole="PHIM" />
+  </EntityType>
+  <EntityType Name="KHACHHANG">
+    <Key>
+      <PropertyRef Name="MAKH" />
+    </Key>
+    <Property Name="MAKH" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HO" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TEN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="LOAIKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="SDT" Type="String" MaxLength="15" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="LICHCHIEU">
+    <Key>
+      <PropertyRef Name="MALICHCHIEU" />
+    </Key>
+    <Property Name="MALICHCHIEU" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MAPHIM" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="THOILUONG" Type="Int32" />
+    <Property Name="GIOCHIEU" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="NGAYCHIEU" Type="DateTime" Precision="0" />
+    <Property Name="LOAICHIEU" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="MARAP" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="GIA" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="PHIM" Relationship="Self.FK_LICHCHIEU_PHIM1" FromRole="LICHCHIEU" ToRole="PHIM" />
+    <NavigationProperty Name="RAP" Relationship="Self.FK_LICHCHIEU_RAP" FromRole="LICHCHIEU" ToRole="RAP" />
+  </EntityType>
+  <EntityType Name="PHIM">
+    <Key>
+      <PropertyRef Name="MAPHIM" />
+    </Key>
+    <Property Name="MAPHIM" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENPHIM" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NAMSX" Type="Int32" />
+    <Property Name="MATL" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="NgayKhoiChieu" Type="DateTime" Precision="0" />
+    <Property Name="Daodien" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="QuocGia" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgayKetThuc" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="HOADONs" Relationship="Self.FK_HOADON_PHIM" FromRole="PHIM" ToRole="HOADON" />
+    <NavigationProperty Name="HOADONs1" Relationship="Self.FK_HOADON_PHIM1" FromRole="PHIM" ToRole="HOADON" />
+    <NavigationProperty Name="LICHCHIEUx" Relationship="Self.FK_LICHCHIEU_PHIM1" FromRole="PHIM" ToRole="LICHCHIEU" />
+    <NavigationProperty Name="THELOAI" Relationship="Self.FK_PHIM_THELOAI" FromRole="PHIM" ToRole="THELOAI" />
+  </EntityType>
+  <EntityType Name="RAP">
+    <Key>
+      <PropertyRef Name="MARAP" />
+    </Key>
+    <Property Name="MARAP" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENRAP" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="THONGTINRAP" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="SLGHE" Type="Int32" />
+    <NavigationProperty Name="LICHCHIEUx" Relationship="Self.FK_LICHCHIEU_RAP" FromRole="RAP" ToRole="LICHCHIEU" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="THELOAI">
+    <Key>
+      <PropertyRef Name="MATL" />
+    </Key>
+    <Property Name="MATL" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="TENTHELOAI" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="PHIMs" Relationship="Self.FK_PHIM_THELOAI" FromRole="THELOAI" ToRole="PHIM" />
+  </EntityType>
+  <Association Name="FK_HOADON_PHIM">
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="1" />
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIM">
+        <PropertyRef Name="MAPHIM" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MAPHIM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HOADON_PHIM1">
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="1" />
+    <End Role="HOADON" Type="Self.HOADON" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIM">
+        <PropertyRef Name="MAPHIM" />
+      </Principal>
+      <Dependent Role="HOADON">
+        <PropertyRef Name="MAPHIM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LICHCHIEU_PHIM1">
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="0..1" />
+    <End Role="LICHCHIEU" Type="Self.LICHCHIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PHIM">
+        <PropertyRef Name="MAPHIM" />
+      </Principal>
+      <Dependent Role="LICHCHIEU">
+        <PropertyRef Name="MAPHIM" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_LICHCHIEU_RAP">
+    <End Role="RAP" Type="Self.RAP" Multiplicity="0..1" />
+    <End Role="LICHCHIEU" Type="Self.LICHCHIEU" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RAP">
+        <PropertyRef Name="MARAP" />
+      </Principal>
+      <Dependent Role="LICHCHIEU">
+        <PropertyRef Name="MARAP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PHIM_THELOAI">
+    <End Role="THELOAI" Type="Self.THELOAI" Multiplicity="0..1" />
+    <End Role="PHIM" Type="Self.PHIM" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="THELOAI">
+        <PropertyRef Name="MATL" />
+      </Principal>
+      <Dependent Role="PHIM">
+        <PropertyRef Name="MATL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QL_RAPCHIEUPHIMEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CHITIETHOADONs" EntityType="Self.CHITIETHOADON" />
+    <EntitySet Name="HOADONs" EntityType="Self.HOADON" />
+    <EntitySet Name="KHACHHANGs" EntityType="Self.KHACHHANG" />
+    <EntitySet Name="LICHCHIEUx" EntityType="Self.LICHCHIEU" />
+    <EntitySet Name="PHIMs" EntityType="Self.PHIM" />
+    <EntitySet Name="RAPs" EntityType="Self.RAP" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <EntitySet Name="THELOAIs" EntityType="Self.THELOAI" />
+    <AssociationSet Name="FK_HOADON_PHIM" Association="Self.FK_HOADON_PHIM">
+      <End Role="PHIM" EntitySet="PHIMs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HOADON_PHIM1" Association="Self.FK_HOADON_PHIM1">
+      <End Role="PHIM" EntitySet="PHIMs" />
+      <End Role="HOADON" EntitySet="HOADONs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LICHCHIEU_PHIM1" Association="Self.FK_LICHCHIEU_PHIM1">
+      <End Role="PHIM" EntitySet="PHIMs" />
+      <End Role="LICHCHIEU" EntitySet="LICHCHIEUx" />
+    </AssociationSet>
+    <AssociationSet Name="FK_LICHCHIEU_RAP" Association="Self.FK_LICHCHIEU_RAP">
+      <End Role="RAP" EntitySet="RAPs" />
+      <End Role="LICHCHIEU" EntitySet="LICHCHIEUx" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PHIM_THELOAI" Association="Self.FK_PHIM_THELOAI">
+      <End Role="THELOAI" EntitySet="THELOAIs" />
+      <End Role="PHIM" EntitySet="PHIMs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,9 @@
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\Connector.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\Connector.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\obj\Debug\Connector.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\obj\Debug\Connector.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\obj\Debug\Connector.csprojResolveAssemblyReference.cache
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\Model.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\EntityFramework.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\Model.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Connector\bin\Debug\EntityFramework.xml

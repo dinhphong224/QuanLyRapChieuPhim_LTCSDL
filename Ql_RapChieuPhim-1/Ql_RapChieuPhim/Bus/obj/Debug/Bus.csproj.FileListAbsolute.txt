@@ -1,0 +1,11 @@
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\obj\Debug\Bus.csprojResolveAssemblyReference.cache
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Bus.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Bus.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Connector.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Model.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\EntityFramework.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Connector.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\Model.pdb
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\bin\Debug\EntityFramework.xml
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\obj\Debug\Bus.dll
+C:\Users\Chau D. Canh\Documents\Visual Studio 2015\Projects\Ql_RapChieuPhim\Bus\obj\Debug\Bus.pdb

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QL_RAPCHIEUPHIMModelStoreContainer" CdmEntityContainer="QL_RAPCHIEUPHIMEntities">
+    <EntitySetMapping Name="CHITIETHOADONs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.CHITIETHOADON">
+        <MappingFragment StoreEntitySet="CHITIETHOADON">
+          <ScalarProperty Name="MAHD" ColumnName="MAHD" />
+          <ScalarProperty Name="TIENDV" ColumnName="TIENDV" />
+          <ScalarProperty Name="SLGHEMUA" ColumnName="SLGHEMUA" />
+          <ScalarProperty Name="THANHTIEN" ColumnName="THANHTIEN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HOADONs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.HOADON">
+        <MappingFragment StoreEntitySet="HOADON">
+          <ScalarProperty Name="MAKH" ColumnName="MAKH" />
+          <ScalarProperty Name="MAPHIM" ColumnName="MAPHIM" />
+          <ScalarProperty Name="NGAYLAPHD" ColumnName="NGAYLAPHD" />
+          <ScalarProperty Name="MAHD" ColumnName="MAHD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KHACHHANGs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.KHACHHANG">
+        <MappingFragment StoreEntitySet="KHACHHANG">
+          <ScalarProperty Name="MAKH" ColumnName="MAKH" />
+          <ScalarProperty Name="TENKH" ColumnName="TENKH" />
+          <ScalarProperty Name="LOAIKH" ColumnName="LOAIKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LICHCHIEUx">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.LICHCHIEU">
+        <MappingFragment StoreEntitySet="LICHCHIEU">
+          <ScalarProperty Name="MALICHCHIEU" ColumnName="MALICHCHIEU" />
+          <ScalarProperty Name="MAPHIM" ColumnName="MAPHIM" />
+          <ScalarProperty Name="THOILUONG" ColumnName="THOILUONG" />
+          <ScalarProperty Name="GIOCHIEU" ColumnName="GIOCHIEU" />
+          <ScalarProperty Name="NGAYCHIEU" ColumnName="NGAYCHIEU" />
+          <ScalarProperty Name="MALOAICHIEU" ColumnName="MALOAICHIEU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOAICHIEUx">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.LOAICHIEU">
+        <MappingFragment StoreEntitySet="LOAICHIEU">
+          <ScalarProperty Name="MALOAICHIEU" ColumnName="MALOAICHIEU" />
+          <ScalarProperty Name="LOAICHIEU1" ColumnName="LOAICHIEU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PHIMs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.PHIM">
+        <MappingFragment StoreEntitySet="PHIM">
+          <ScalarProperty Name="MAPHIM" ColumnName="MAPHIM" />
+          <ScalarProperty Name="TENPHIM" ColumnName="TENPHIM" />
+          <ScalarProperty Name="NAMSX" ColumnName="NAMSX" />
+          <ScalarProperty Name="MATL" ColumnName="MATL" />
+          <ScalarProperty Name="NgayKhoiChieu" ColumnName="NgayKhoiChieu" />
+          <ScalarProperty Name="Daodien" ColumnName="Daodien" />
+          <ScalarProperty Name="QuocGia" ColumnName="QuocGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RAPs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.RAP">
+        <MappingFragment StoreEntitySet="RAP">
+          <ScalarProperty Name="MARAP" ColumnName="MARAP" />
+          <ScalarProperty Name="TENRAP" ColumnName="TENRAP" />
+          <ScalarProperty Name="THONGTINRAP" ColumnName="THONGTINRAP" />
+          <ScalarProperty Name="SLGHE" ColumnName="SLGHE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="THELOAIs">
+      <EntityTypeMapping TypeName="QL_RAPCHIEUPHIMModel.THELOAI">
+        <MappingFragment StoreEntitySet="THELOAI">
+          <ScalarProperty Name="MATL" ColumnName="MATL" />
+          <ScalarProperty Name="TENTHELOAI" ColumnName="TENTHELOAI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
