@@ -1,0 +1,487 @@
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\bin\Debug\RapPhim.exe.config
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\bin\Debug\RapPhim.exe
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\bin\Debug\RapPhim.pdb
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.dll
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.xml
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.Properties.Resources.resources
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.GenerateResource.Cache
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.exe
+e:\onedrive\visual studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.pdb
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.csprojResolveAssemblyReference.cache
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.RapPhim.resources
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.ResolveComReference.cache
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.exe.licenses
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.fmThongTinPhim.resources
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\OneDrive\Visual Studio 2015\Projects\RapPhim\RapPhim\obj\Debug\RapPhim.fmDoiMK.resources
+E:\Desktop\RapPhim\RapPhim\bin\Debug\RapPhim.exe.config
+E:\Desktop\RapPhim\RapPhim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Desktop\RapPhim\RapPhim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.ResolveComReference.cache
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.exe
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.pdb
+E:\Desktop\RapPhim\RapPhim\bin\Debug\RapPhim.exe
+E:\Desktop\RapPhim\RapPhim\bin\Debug\RapPhim.pdb
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.csprojResolveAssemblyReference.cache
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.fmThongTinPhim.resources
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.RapPhim.resources
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.fmDoiMK.resources
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.Properties.Resources.resources
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.GenerateResource.Cache
+E:\Desktop\RapPhim\RapPhim\obj\Debug\RapPhim.exe.licenses
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\RapPhim.exe.config
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.ResolveComReference.cache
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.exe
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.pdb
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\RapPhim.exe
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\RapPhim.pdb
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\Desktop\New folder\RapPhim\RapPhim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.csprojResolveAssemblyReference.cache
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.fmThongTinPhim.resources
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.RapPhim.resources
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.fmDoiMK.resources
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.Properties.Resources.resources
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.GenerateResource.Cache
+E:\Desktop\New folder\RapPhim\RapPhim\obj\Debug\RapPhim.exe.licenses
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Desktop\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\RapPhim.exe.config
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\RapPhim.exe
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\RapPhim.pdb
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.csprojAssemblyReference.cache
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.ResolveComReference.cache
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.fmThongTinPhim.resources
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.RapPhim.resources
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.fmDoiMK.resources
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.Properties.Resources.resources
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.GenerateResource.cache
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.exe.licenses
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.CoreCompileInputs.cache
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.CopyComplete
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.exe
+G:\Canh.cd\GitHub\TDMU\LTCSDL\ProjectQuanLiRap\RapPhim\RapPhim\obj\Debug\RapPhim.pdb
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\RapPhim.exe.config
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\RapPhim.exe
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\RapPhim.pdb
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.csprojAssemblyReference.cache
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.ResolveComReference.cache
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.fmThongTinPhim.resources
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.RapPhim.resources
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.fmDoiMK.resources
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.Properties.Resources.resources
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.GenerateResource.cache
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.exe.licenses
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.CoreCompileInputs.cache
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.csproj.CopyComplete
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.exe
+C:\Users\dinhp\Desktop\RapPhim\RapPhim\RapPhim\obj\Debug\RapPhim.pdb
